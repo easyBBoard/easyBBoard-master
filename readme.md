@@ -1,4 +1,4 @@
-easyBBoard - Dev Alpha
+## easyBBoard - Dev Alpha
 
 ## Free never tasted so good.
 easyBBoard is a free and open source, community-based forum software project. The Base of the Software are a Fork from MyBB.
